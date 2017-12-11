@@ -1,0 +1,9 @@
+{
+  "name": "node-emailSender",
+  "version": "0.0.0",
+  "description": "NodeEmailSender",
+  "main": "index.js",
+  "dependencies": {
+	  "gmail-send": "^1.2.11"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "environment": {
+        "alexaAppId": "<Alexa_APP_ID>",
+        "persistenceLambdaName": "<Shhhhh..it's a secret>",
+        "emailSenderLambdaName": "<Shhhhh..it's a secret>"
+    }
+}

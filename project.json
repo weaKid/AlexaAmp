@@ -1,0 +1,8 @@
+{
+  "name": "AlexaAmp",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::698866124648:role/lambda_basic_execution",
+  "environment": {}
+}
